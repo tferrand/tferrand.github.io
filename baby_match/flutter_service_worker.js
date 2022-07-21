@@ -3,24 +3,27 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "eb194d3fea54572240b8898ede2ab698",
-"index.html": "0b53a83fff823230a7c781005c6cfd34",
-"/": "0b53a83fff823230a7c781005c6cfd34",
-"main.dart.js": "468108498be45e2fb20fd40c33695ddb",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+  "version.json": "b2d56ca7935a5351014895dc007fe284",
+"index.html": "322c45074f2fb53eacb464ba9f822851",
+"/": "322c45074f2fb53eacb464ba9f822851",
+"main.dart.js": "d19ffef4306996225b99baa8575fa360",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "40436bf2483891b550e3306bbe41bb04",
-"assets/AssetManifest.json": "171260022d0601d8ea614724bcc498a3",
-"assets/NOTICES": "580c1f9ff8bee05eaf72d4c770eca597",
+"assets/AssetManifest.json": "26c5cf9a25897f1bf5f2a7444967ba42",
+"assets/NOTICES": "9e157eab49976722d7d91b1d95f73287",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/assets/images/app.png": "8b756e4548008f020090d5c11a8d0c5f",
-"assets/assets/images/baby_faces.png": "ed55253f48cc652975008e62052fe74f",
+"assets/assets/images/app.png": "ff5f96d44aab9b7a6a09b2cfb24ebbb6",
+"assets/assets/images/baby_face.png": "839f4c212ca8bf5794b4082a8f44b403",
+"assets/assets/images/lottie/filter.json": "7a9b4e4e8e8ab004e36cbab40cc39be3",
+"assets/assets/images/lottie/swipe_right.json": "98d1d8d8118aa76a606ac6f748661d76",
+"assets/assets/images/lottie/done.json": "f6c95d070e04abbe1e1ce9ebf835c97c",
+"assets/assets/images/lottie/heart.json": "350df714244cbd4e6615270ef0178cb4",
 "assets/assets/names_dataset/SY.json": "11f58ddc4f0f73b9f8f2d993a88d1d2f",
 "assets/assets/names_dataset/BW.json": "bfae5aeb606e3de2a228642e0c01c20d",
 "assets/assets/names_dataset/NA.json": "347b689a792a58a572dc6f9dabecd9e8",
@@ -126,11 +129,7 @@ const RESOURCES = {
 "assets/assets/names_dataset/MD.json": "0ef62db6080a46905788daaaa9b1c22c",
 "assets/assets/names_dataset/CR.json": "546387be2447953d2a0b1aecbac6aa5f",
 "assets/assets/names_dataset/PE.json": "45756f031b498390e939e7e276e70510",
-"assets/assets/countries.json": "d4fda7c8c6b7e45d2a2999c124b24ad5",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/countries.json": "d4fda7c8c6b7e45d2a2999c124b24ad5"
 };
 
 // The application shell files that are downloaded before a service worker can
