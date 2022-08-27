@@ -22,15 +22,16 @@ const RESOURCES = {
 "splash/img/branding-dark-3x.png": "2b4aac92448b129e2d928aed8be19988",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "79bc58ce8add2f3ddb6e8ac2d4957b84",
-"index.html": "b3332998142d7cc50612aca43f6d5064",
-"/": "b3332998142d7cc50612aca43f6d5064",
+"index.html": "b93137b3e2a693b9862e0e5efd2e7854",
+"/": "b93137b3e2a693b9862e0e5efd2e7854",
 "main.dart.js": "41addc9474ee3c874dcecd654aacec90",
+"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "4a2e65d880a2c772d1eabbc81bef577f",
 "icons/Icon-192.png": "34b9cf8f8257ce353e353f2f52a6267b",
 "icons/Icon-maskable-192.png": "34b9cf8f8257ce353e353f2f52a6267b",
 "icons/Icon-maskable-512.png": "ff5f96d44aab9b7a6a09b2cfb24ebbb6",
 "icons/Icon-512.png": "ff5f96d44aab9b7a6a09b2cfb24ebbb6",
-"manifest.json": "40436bf2483891b550e3306bbe41bb04",
+"manifest.json": "5ee9665617c9b76aeec4c20ab636212e",
 "assets/AssetManifest.json": "cdda70991ec5de7f7ed6c19caa0a55d4",
 "assets/NOTICES": "2cb24b1f1e2ae1421039597801e17e5a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -149,7 +150,11 @@ const RESOURCES = {
 "assets/assets/names_dataset/MD.json": "0ef62db6080a46905788daaaa9b1c22c",
 "assets/assets/names_dataset/CR.json": "546387be2447953d2a0b1aecbac6aa5f",
 "assets/assets/names_dataset/PE.json": "45756f031b498390e939e7e276e70510",
-"assets/assets/countries.json": "d4fda7c8c6b7e45d2a2999c124b24ad5"
+"assets/assets/countries.json": "d4fda7c8c6b7e45d2a2999c124b24ad5",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
