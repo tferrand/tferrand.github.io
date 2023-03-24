@@ -25891,8 +25891,7 @@ ab2:function ab2(a,b){this.a=a
 this.b=b},
 AK:function AK(a){this.a=a},
 Gk:function Gk(a){var _=this
-_.d=$
-_.a=null
+_.a=_.d=null
 _.b=a
 _.c=null},
 arA:function arA(){},
@@ -89770,9 +89769,9 @@ A.AK.prototype={
 a1(){return new A.Gk(B.i)}}
 A.Gk.prototype={
 ak(){this.aF()
-var s=new A.abW(A.aNm(),new A.arA())
+if($.aBn){var s=new A.abW(A.aNm(),new A.arA())
 this.d=s
-if($.aBn)s.TG()},
+s.TG()}},
 G(a){var s=null
 return A.yJ(s,!1,s,!0,s,new A.DB(new A.lN(new A.arz(this),s),s),0)},
 vc(){var s=0,r=A.Z(t.z),q,p=this,o,n,m,l,k
@@ -89854,12 +89853,12 @@ $C:"$3",
 $R:3,
 $S:559}
 A.ars.prototype={
-$0(){var s,r,q=this
-if(q.b&&q.a.c!=null){s=q.a
+$0(){var s,r,q,p=this
+if(p.b&&p.a.c!=null){s=p.a
 r=s.d
-r===$&&A.b()
-r.b=new A.arr(s,q.c,q.d)
-r.X5()}q.d.aiX()},
+q=r==null
+if(!q)r.b=new A.arr(s,p.c,p.d)
+if(!q)r.X5()}p.d.aiX()},
 $S:5}
 A.arr.prototype={
 $0(){this.a.qw(A.a([new A.wf(this.c.gbB().c,null)],t.p),this.b)},
