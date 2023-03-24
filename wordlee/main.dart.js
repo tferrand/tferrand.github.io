@@ -89699,7 +89699,7 @@ break
 case 3:s=5
 return A.a2(B.kH.d7("hasCustomVibrationsSupport",null,!1,p),$async$$0)
 case 5:p=b
-if(p==null?!1:p)A.aHz(100)
+if(p==null?!1:p)A.aHz(50)
 else A.aHz(500)
 case 4:return A.X(null,r)}})
 return A.Y($async$$0,r)},
