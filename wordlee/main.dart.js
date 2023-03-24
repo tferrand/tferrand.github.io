@@ -47683,7 +47683,7 @@ r=i?1:0.3
 m.push(A.dw(B.YK,n,new A.a1H(a,i),s,B.WO,A.vc(A.f4(i?B.Ih:B.IG,n,n),r)))
 s=A.b9(h?p:o,n,n,n,n,n,n,n)
 r=h?1:0.3
-m.push(A.dw(B.YC,n,new A.a1I(a,h),s,B.Ww,A.vc(A.f4(h?B.IQ:B.IE,n,n),r)))
+m.push(A.dw(B.YC,n,new A.a1I(a,h),s,B.Ww,A.vc(A.f4(h?B.IR:B.IE,n,n),r)))
 s=A.b9(j?p:o,n,n,n,n,n,n,n)
 m.push(A.dw(B.Yz,n,new A.a1J(a,j),s,B.WK,A.vc(B.J2,j?1:0.3)))
 s=A.b9(B.c.k(l),n,n,n,n,n,n,n)
@@ -89648,7 +89648,7 @@ s.a=A.K(a).fy
 s.b=B.j
 return A.nh(new A.aa1(s,this,a,this.e.a*0.006),t.l)},
 W0(a,b){var s=null,r=b.b
-if(r==="enter")return A.f4(B.IS,a,s)
+if(r==="enter")return A.f4(B.IT,a,s)
 else if(r==="backspace")return A.f4(B.IH,a,s)
 return A.b9(r.toUpperCase(),s,s,s,s,B.ij.xP(a,17),s,s)}}
 A.aa1.prototype={
@@ -89825,9 +89825,9 @@ c=s?b:A.K(c).ax.b
 r=g.a
 q=r.gWv()
 p=t.p
-c=A.a([A.tv(B.d3,A.f4(B.IR,a0,f),c,e,q,B.cT,B.R,"Archives",e)],p)
+c=A.a([A.tv(B.d3,A.f4(B.IS,a0,f),c,e,q,B.cT,B.R,"Archives",e)],p)
 if(s)B.b.U(c,A.a([A.tv(B.d3,A.f4(B.II,a0,f),b,e,new A.ars(r,g.c),B.cT,B.R,"Statistics",e)],p))
-else B.b.U(c,A.a([A.tv(B.d3,A.f4(B.IV,a0,f),b,e,new A.art(a2),B.cT,B.R,"Go back to today",e)],p))
+else B.b.U(c,A.a([A.tv(B.d3,A.f4(B.IW,a0,f),b,e,new A.art(a2),B.cT,B.R,"Go back to today",e)],p))
 c=A.fm(A.aHG(B.or,c,B.N,a),1)
 o=A.h6(8)
 n=g.c
@@ -89840,7 +89840,7 @@ k=A.aEI(f)
 j=k.jR(new A.aS(Date.now(),!1))
 i=k.jR(l)
 h=A.aFm(l)
-return new A.bb(new A.am(d,0,d,0),A.dA(A.a([c,A.fm(A.dV(A.a([m,A.jh(!1,o,!0,new A.bb(B.Hs,A.b9(j===i?"Today "+h:"Archive : "+i,f,f,f,f,B.Uj,f,f),f),f,!0,f,f,f,f,f,f,f,f,f,f,q,f,f,f,f,f)],p),B.y,B.v,B.A,B.F),1),A.fm(A.aHG(B.YO,A.a([A.tv(B.d3,A.f4(B.IZ,a0,f),b,e,new A.arv(r,n),B.cT,B.R,"How to play ?",e),A.tv(B.d3,A.f4(B.IW,a0,f),b,e,new A.arw(r,n),B.cT,B.R,"Settings",e)],p),B.N,a),1)],p),B.y,B.v,B.A),f)},
+return new A.bb(new A.am(d,0,d,0),A.dA(A.a([c,A.fm(A.dV(A.a([m,A.jh(!1,o,!0,new A.bb(B.Hs,A.b9(j===i?"Today "+h:"Archive : "+i,f,f,f,f,B.Uj,f,f),f),f,!0,f,f,f,f,f,f,f,f,f,f,q,f,f,f,f,f)],p),B.y,B.v,B.A,B.F),1),A.fm(A.aHG(B.YO,A.a([A.tv(B.d3,A.f4(B.IZ,a0,f),b,e,new A.arv(r,n),B.cT,B.R,"How to play ?",e),A.tv(B.d3,A.f4(B.IX,a0,f),b,e,new A.arw(r,n),B.cT,B.R,"Settings",e)],p),B.N,a),1)],p),B.y,B.v,B.A),f)},
 $C:"$3",
 $R:3,
 $S:559}
@@ -89879,7 +89879,7 @@ s=a.R(s).f.a.a>450&&!0?a.R(s).f.a.b*9/16:1/0
 return A.fN(A.d4(this.c,null,s),null,null)}}
 A.ov.prototype={}
 A.DV.prototype={
-a1(){return new A.YW(A.a([new A.ov(B.IL,B.d2),new A.ov(B.IT,B.fA),new A.ov(B.IO,B.iL)],t.v7),A.a([],t.HZ),B.i)}}
+a1(){return new A.YW(A.a([new A.ov(B.IL,B.d2),new A.ov(B.IU,B.fA),new A.ov(B.IP,B.iL)],t.v7),A.a([],t.HZ),B.i)}}
 A.YW.prototype={
 ak(){var s,r
 this.aF()
@@ -90191,13 +90191,13 @@ s=n.c.b.h(0,a)
 s=s==null?o:s.c
 n=n.c.b.h(0,a)
 n=n==null?o:n.f.length!==0
-if(m===!0)if(s===!0){r=B.IM
+if(m===!0)if(s===!0){r=B.IN
 q=B.d9
 p="Word found !"}else{q=A.K(this.b).ax.at
-r=B.IP
+r=B.IQ
 p="Word not found..."}else if(n===!0){q=o
-r=B.IU
-p="You can still try to find the word !"}else{r=B.IY
+r=B.IV
+p="You can still try to find the word !"}else{r=B.IM
 q=B.fU
 p="Try to find the word !"}return new A.bb(B.Hm,new A.n0(1,A.fN(A.dA(A.a([A.b9(A.i(a),o,o,o,o,o,o,o),A.aC_(A.f4(r,q,18),p)],t.p),B.y,B.xo,B.A),o,o),o),o)},
 $S:573}
@@ -93988,17 +93988,17 @@ B.II=new A.bj(62889,!1)
 B.IJ=new A.bj(62933,!1)
 B.IK=new A.bj(62938,!1)
 B.IL=new A.bj(62952,!1)
-B.IM=new A.bj(63029,!1)
-B.IO=new A.bj(63116,!1)
-B.IP=new A.bj(63251,!1)
-B.IQ=new A.bj(63372,!1)
-B.IR=new A.bj(63471,!1)
-B.IS=new A.bj(63538,!1)
-B.IT=new A.bj(63570,!1)
-B.IU=new A.bj(63705,!1)
-B.IV=new A.bj(983317,!1)
-B.IW=new A.bj(983396,!1)
-B.IY=new A.bj(983713,!1)
+B.IM=new A.bj(63028,!1)
+B.IN=new A.bj(63029,!1)
+B.IP=new A.bj(63116,!1)
+B.IQ=new A.bj(63251,!1)
+B.IR=new A.bj(63372,!1)
+B.IS=new A.bj(63471,!1)
+B.IT=new A.bj(63538,!1)
+B.IU=new A.bj(63570,!1)
+B.IV=new A.bj(63705,!1)
+B.IW=new A.bj(983317,!1)
+B.IX=new A.bj(983396,!1)
 B.IZ=new A.bj(983915,!1)
 B.J_=new A.cV(null,null,null,null,null,B.L,null,null)
 B.J0=new A.cV(24,0,400,0,48,B.m,1,null)
@@ -94009,8 +94009,8 @@ B.Ir=new A.bj(58031,!1)
 B.J2=new A.dJ(B.Ir,null,null,null)
 B.Il=new A.bj(57634,!1)
 B.J5=new A.dJ(B.Il,null,null,null)
-B.IN=new A.bj(63035,!0)
-B.qX=new A.dJ(B.IN,null,null,null)
+B.IO=new A.bj(63035,!0)
+B.qX=new A.dJ(B.IO,null,null,null)
 B.Io=new A.bj(57706,!1)
 B.J6=new A.dJ(B.Io,null,null,null)
 B.Iv=new A.bj(58332,!1)
@@ -94436,8 +94436,8 @@ B.L8=A.a(s([B.dr,B.dx,B.dB,B.ds,B.dt,B.dz,B.dv,B.dC,B.dp,B.dq]),t.R)
 B.LF=A.a(s([B.cf,B.dA,B.dy,B.du,B.dw,B.dl,B.dn,B.dm,B.cg]),t.R)
 B.LS=A.a(s([B.L8,B.rp,B.LF]),t.sP)
 B.ki=A.a(s([!0,!1]),t.HZ)
-B.IX=new A.bj(983402,!1)
-B.J7=new A.dJ(B.IX,20,null,null)
+B.IY=new A.bj(983402,!1)
+B.J7=new A.dJ(B.IY,20,null,null)
 B.HA=new A.k9(1,B.dh,B.J7,null)
 B.aK=new A.rp(2,"ellipsis")
 B.Wh=new A.bx("Share",null,null,null,null,null,B.aK,2,null,null)
