@@ -87418,7 +87418,7 @@ break
 case 3:s=5
 return A.ab(B.kA.iA("hasCustomVibrationsSupport",null,!1,p),$async$$0)
 case 5:p=b
-if(p==null?!1:p)A.aF4(400)
+if(p==null?!1:p)A.aF4(100)
 else A.aF4(500)
 case 4:return A.a2(null,r)}})
 return A.a3($async$$0,r)},
