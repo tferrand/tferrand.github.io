@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
-"main.dart.js": "04efd13711b7c72f37a131acdc39fda5",
+"main.dart.js": "54b93ab1b845dfcc2a7c36538c2216bf",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
@@ -15,7 +15,7 @@ const RESOURCES = {
 "assets/AssetManifest.json": "2e166cffb3319eaa9ac01a4e5111ba39",
 "assets/assets/words/ph_targets.json": "b0b7927c3aac59f9a622307eea0c5c1d",
 "assets/assets/words/nl_targets.json": "b09c460f7d4a58ef2175b512fd77c00d",
-"assets/assets/words/en_targets.json": "a018b725b769c6cb95d91a7238d28a11",
+"assets/assets/words/en_targets.json": "fd698c7b3155d005fe8b7d4e5f717f85",
 "assets/assets/words/it_targets.json": "08a1ca2c6f6639a093f9c060534bdba8",
 "assets/assets/words/de_dictionary.json": "1ce3b1d46934918f174aed0d513ac9f2",
 "assets/assets/words/pt_dictionary.json": "836a2b851ee0917fa671061a33a5503c",
@@ -34,8 +34,8 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/NOTICES": "1c2703ecdb48a8a590e33b52ff11ea8c",
-"index.html": "bfbe236f933829b43048f1b830cab9bc",
-"/": "bfbe236f933829b43048f1b830cab9bc",
+"index.html": "e87d67396db743aee51643460ba046ed",
+"/": "e87d67396db743aee51643460ba046ed",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
