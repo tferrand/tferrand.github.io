@@ -28753,8 +28753,8 @@ else{s=c.b
 r=A.j(s).i("aZ<1>")
 r=A.ah(new A.aZ(s,r),!0,r.i("t.E"))
 s=r}B.b.a0(A.hf(s,!0,t.S),new A.aqb(p,c,d,a))
-p=p.a+="\nhttps://tferrand.github.io/wordlee/"
-return p},
+p.a+="\nhttps://tferrand.github.io/wordlee/"
+return p.a},
 aqa:function aqa(){},
 aqb:function aqb(a,b,c,d){var _=this
 _.a=a
