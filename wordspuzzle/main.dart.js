@@ -93043,7 +93043,7 @@ f9(a,b){return new A.cK(A.b6T(b),t.kL)},
 oG(a){return B.b.D(A.a(["de","en","es","fr","it"],t.s),a.gdE(a))},
 np(a){return!1}}
 A.Mk.prototype={
-gnU(){return"Wordlee"},
+gnU(){return"Words Puzzle"},
 gwx(){return"Archive"},
 gwy(){return"Wie wird gespielt?"},
 gwz(){return"Einstellungen"},
@@ -93115,7 +93115,7 @@ gw0(){return"W\xe4hlen Sie Ihr Geschenk aus"},
 gvZ(){return"Ausw\xe4hlen"},
 gw_(){return"Ihr Geschenk wurde hinzugef\xfcgt!"}}
 A.Ml.prototype={
-gnU(){return"Wordlee"},
+gnU(){return"Words Puzzle"},
 gwx(){return"Archives"},
 gwy(){return"How to play ?"},
 gwz(){return"Settings"},
@@ -93187,7 +93187,7 @@ gw0(){return"Select your gift"},
 gvZ(){return"Select"},
 gw_(){return"Your gift has been added !"}}
 A.Mm.prototype={
-gnU(){return"Wordlee"},
+gnU(){return"Words Puzzle"},
 gwx(){return"Archivos"},
 gwy(){return"\xbfC\xf3mo jugar?"},
 gwz(){return"Configuraci\xf3n"},
@@ -93259,7 +93259,7 @@ gw0(){return"Selecciona tu regalo"},
 gvZ(){return"Seleccionar"},
 gw_(){return"\xa1Tu regalo ha sido agregado!"}}
 A.Mn.prototype={
-gnU(){return"Wordlee"},
+gnU(){return"Words Puzzle"},
 gwx(){return"Archives"},
 gwy(){return"Comment jouer ?"},
 gwz(){return"Param\xe8tres"},
@@ -93331,7 +93331,7 @@ gw0(){return"S\xe9lectionnez votre cadeau"},
 gvZ(){return"S\xe9lectionner"},
 gw_(){return"Votre cadeau a \xe9t\xe9 ajout\xe9\xa0!"}}
 A.Mo.prototype={
-gnU(){return"Wordlee"},
+gnU(){return"Words Puzzle"},
 gwx(){return"Archivi"},
 gwy(){return"Come si gioca?"},
 gwz(){return"Impostazioni"},
