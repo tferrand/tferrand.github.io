@@ -44918,7 +44918,7 @@ p.toString
 p.f.t_(A.Hj(null,null,null,null,B.w,A.ay(A.aA(a,B.m,t.J).gVi(),null,null,null,null,null,null,null),B.dE,B.ey,null,null,null,null,null,null,null))
 q=null
 s=1
-break}p=A.ko("https://www.babymatch.page.link/invite?code="+k,0,null)
+break}p=A.ko("https://babymatch.page.link/invite?code="+k,0,null)
 o=t.J
 n=A.aA(a,B.m,o).gyR()
 o=A.aA(a,B.m,o).gAd()
