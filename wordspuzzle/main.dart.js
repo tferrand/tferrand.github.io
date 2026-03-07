@@ -28940,7 +28940,7 @@ r=A.j(s).i("aZ<1>")
 r=A.ah(new A.aZ(s,r),!0,r.i("t.E"))
 s=r}B.b.a0(A.hh(s,!0,t.S),new A.ar6(p,c,d,a))
 s=p.a+="\n"
-return p.a=s+"https://wordspuzzle.page.link/share"},
+return p.a=s+"https://fefelabs.github.io/wordspuzzle"},
 ar5:function ar5(){},
 ar6:function ar6(a,b,c,d){var _=this
 _.a=a
