@@ -33030,7 +33030,7 @@ apM:function apM(a){this.a=a},
 apN:function apN(){},
 apO:function apO(a){this.a=a},
 apP:function apP(){},
-bcS(){var s=new A.kF(new A.nF(B.el,B.ej,!1,!1,19,0),$.ar())
+bcS(){var s=new A.kF(new A.nF(B.el,B.ej,!1,!1,9,0),$.ar())
 s.afL()
 return s},
 kF:function kF(a,b){var _=this
@@ -33997,7 +33997,7 @@ n=A.jz(o.i(p,"isHighContrast"))
 m=A.jz(o.i(p,"dailyReminderEnabled"))
 l=A.PI(o.i(p,"dailyReminderHour"))
 l=l==null?null:B.c.c9(l)
-if(l==null)l=19
+if(l==null)l=9
 k=A.PI(o.i(p,"dailyReminderMinute"))
 k=k==null?null:B.c.c9(k)
 if(k==null)k=0
@@ -117239,7 +117239,7 @@ var $async$$1=A.J(function(b,c){if(b===1)return A.F(c,r)
 for(;;)switch(s){case 0:s=2
 return A.O(A.ty(),$async$$1)
 case 2:o=c
-n=(o==null?new A.nF(B.el,B.ej,!1,!1,19,0):o).c
+n=(o==null?new A.nF(B.el,B.ej,!1,!1,9,0):o).c
 o=q.a.c
 if(o.e!=null){o=A.agP(o)
 p=n?$.aZ7():$.afV()
@@ -117314,7 +117314,7 @@ a=A.dL(a==null?new A.bV(Date.now(),0,!1):a)
 s=2
 return A.O(A.ty(),$async$pG)
 case 2:p=d
-q.y=(p==null?new A.nF(B.el,B.ej,!1,!1,19,0):p).b
+q.y=(p==null?new A.nF(B.el,B.ej,!1,!1,9,0):p).b
 q.w=b==null?q.w:b
 q.at=q.as=q.Q=q.z=!1
 q.ax=""
